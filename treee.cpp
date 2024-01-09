@@ -1,3 +1,5 @@
+//create tree and display in inorder preorder and postorder....
+
 #include<stdio.h>
 #include<stdlib.h>
 #define MEMORY (NODE *)malloc(sizeof(NODE))
